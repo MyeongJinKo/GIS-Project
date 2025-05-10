@@ -4,6 +4,7 @@
 ## 2. 분석 목표 : 날씨, 날짜, 풍속, 습도 등 다양한 변수를 통해 자전거 대여 수를 예측하여 가장 높은 RMSLE 값을 산출ㄹ
 ### RMSLE 산출 방법
 <img width="216" alt="Image" src="https://github.com/user-attachments/assets/c804674c-105d-4d5b-abe8-285a8d17a919" />
+
 ## 3. 분석 데이터셋 :
 ### 3-1. 데이터 컬럼 설명
 | 컬럼명      | 데이터 타입 | 데이터 설명                                                                 |
